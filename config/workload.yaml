@@ -1,10 +1,10 @@
 apiVersion: carto.run/v1alpha1
 kind: Workload
 metadata:
-  name: nordnet-portal-loic
+  name: nordnet-portal
   labels:
     apps.tanzu.vmware.com/workload-type: web
-    app.kubernetes.io/part-of: nordnet-portal-loic
+    app.kubernetes.io/part-of: nordnet-portal
     apps.tanzu.vmware.com/has-tests: "true"
 spec:
   source:
