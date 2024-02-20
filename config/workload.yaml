@@ -11,4 +11,4 @@ spec:
     git:
       url: https://github.com/emanzat/nordnet-demo.git
       ref:
-        branch: main
+        branch: groupe-b
